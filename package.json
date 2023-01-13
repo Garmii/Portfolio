@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "dev": "vite",
@@ -13,6 +13,7 @@
   "dependencies": {
     "pinia": "^2.0.28",
     "vue": "^3.2.45",
+    "vue-fullpage.js": "^0.2.9",
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
